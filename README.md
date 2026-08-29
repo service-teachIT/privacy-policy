@@ -37,4 +37,4 @@ Auskunft: Sie können die gespeicherten Daten direkt in den Einstellungen der Ap
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand August 2026. Durch die Weiterentwicklung der App oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Erklärung zu ändern.
 
 Stand: 29.08.2026
-App: infoportal (v3.2.0)
+App: infoportal (v3.2.2)
