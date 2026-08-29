@@ -1,4 +1,5 @@
 Datenschutzerklärung
+
 Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und den Zweck der Erhebung und Verwendung personenbezogener Daten in der Android-App "infoportal" (Paketname: mein.stundenplan).
 
 Wichtigste Information vorab: Deine Sicherheit steht an erster Stelle. Alle sensiblen Daten werden ausschließlich verschlüsselt auf deinem Endgerät gespeichert. Wir betreiben keine eigenen Server zur Datenspeicherung und nutzen keine Analyse-Tools.
